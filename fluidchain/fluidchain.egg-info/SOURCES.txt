@@ -1,0 +1,8 @@
+setup.py
+fluidchain/__init__.py
+fluidchain/core.py
+fluidchain/objects.py
+fluidchain.egg-info/PKG-INFO
+fluidchain.egg-info/SOURCES.txt
+fluidchain.egg-info/dependency_links.txt
+fluidchain.egg-info/top_level.txt
