@@ -9,7 +9,7 @@ This is a Python library for chaining together FluCoMa processes.
 `git clone` this repo and `cd` to it.
 
 `FluidChain` is a Python module and so you need to install it to a virtual environment or elsewhere.
-I would recommend just installing it globally with `pip3 install -e FluidChain`
+I would recommend just installing it globally with `pip3 install -e fluidchain`
 
 ## How?
 
